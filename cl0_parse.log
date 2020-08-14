@@ -1,0 +1,43 @@
+  * Ignored stray power value: 1818 mW
+
+Frequency: 633600 kHz
+  * Ignored stray power value: 1888 mW
+  * Ignored stray power value: 1888 mW
+  - Midrange power usage: 1859.0 mW
+  - Median performance: 136240576 μs
+
+Frequency: 902400 kHz
+  * Ignored unknown line: "[  245.121460] [<ffffff91024137cc>] sultan_bench_init+0xd4/0xec
+"
+      * Proper isolation is necessary for good results
+  * Ignored stray power value: 1938 mW
+  * Ignored stray power value: 1938 mW
+  - Midrange power usage: 1935.5 mW
+  - Median performance: 95524560 μs
+
+Frequency: 1113600 kHz
+  * Ignored stray power value: 1987 mW
+  - Midrange power usage: 1963.5 mW
+  - Median performance: 77365288 μs
+
+Frequency: 1401600 kHz
+  * Ignored unknown line: "[  365.123411] [<ffffff91024137cc>] sultan_bench_init+0xd4/0xec
+"
+      * Proper isolation is necessary for good results
+  * Ignored stray power value: 2076 mW
+  - Midrange power usage: 2077.5 mW
+  - Median performance: 61440828 μs
+
+Frequency: 1536000 kHz
+  * Ignored stray power value: 2135 mW
+  - Midrange power usage: 2108.5 mW
+  - Median performance: 56059109 μs
+
+Frequency: 1747200 kHz
+  * Ignored stray power value: 2246 mW
+  - Midrange power usage: 2244.0 mW
+  - Median performance: 49269531 μs
+
+Frequency: 1843200 kHz
+  - Midrange power usage: 2288.0 mW
+  - Median performance: 46698088 μs
